@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TPIMon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://172.16.160.53:8020/</Value>
+    </Setting>
+    <Setting Name="MODEM_INDEX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">modem/index.jsp</Value>
+    </Setting>
+    <Setting Name="MODEM_PAGE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">modem/status.jsp?id=RU</Value>
+    </Setting>
+    <Setting Name="MODEM_NUM" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="NET_TIMEOUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="ASUDD_LIST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RU041 RU042 RU043 RU044 RU045 RU047 RU048 RU050 RU052 RU053 RU055 RU056 RU057 RU058</Value>
+    </Setting>
+    <Setting Name="IMAGE_PREVIEW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">preview?modem-id=</Value>
+    </Setting>
+    <Setting Name="Параметр" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
